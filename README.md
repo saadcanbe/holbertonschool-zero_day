@@ -1,1 +1,1 @@
-My first readme
+message: “How to be up to date in git”
